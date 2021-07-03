@@ -146,7 +146,7 @@ a, button { transition: all 0.3s ease; }
 }
 
 .tl-btn-success {
-  background-color: #319966;
+  background-color: #A45507;
   color: white;
 }
 
@@ -174,7 +174,7 @@ a, button { transition: all 0.3s ease; }
 }
 
 .tl-text-success {
-  color: #319966;
+  color: #A45507;
 }
 
 .text-center {
@@ -405,7 +405,7 @@ p, address {
 
 .tll-gallery-price {
   font-size: 1.25rem;
-  color: #2F956D;
+  color: #A45507;
   margin-bottom: 60px;
 }
 
@@ -417,7 +417,7 @@ p, address {
 .tl-paging-item {
   list-style: none;
   display: inline-block;
-  border: 1px solid #2F956D;
+  border: 1px solid #A45507;
   margin: 7px;
 }
 
@@ -427,13 +427,13 @@ p, address {
   align-items: center;
   justify-content: center;
   text-decoration: none;
-  color: #2F956D;
+  color: #A45507;
   background-color: transparent;
 }
 
 .tl-paging-link.active,
 .tl-paging-link:hover {
-  background-color: #2F956D;
+  background-color: #A45507;
   color: white;
 }
 
@@ -478,7 +478,7 @@ p, address {
 }
 
 .tl-footer a:hover {
-  color: #1A6692;
+  color: #35439b;
 }
 
 /* About */
@@ -725,7 +725,7 @@ address {
 .tl-contact-icon {
   display: inline-block;
   margin-right: 25px;
-  color: #319966;
+  color: #A45507;
 }
 
 .tl-contact-link {
