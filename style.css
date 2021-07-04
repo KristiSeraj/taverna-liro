@@ -529,7 +529,7 @@ p, address {
 }
 
 .tl-social-link {
-  color: #626364;
+  color: #A45507;
   display: inline-block;
   border-radius: 1px;
   background-color: transparent;
@@ -543,7 +543,7 @@ p, address {
 
 .tl-social-link:hover {
   color: white;
-  background-color: #626364;
+  background-color: #A45507;
 }
 
 .tl-social-icon {
@@ -621,16 +621,6 @@ p, address {
   } 
 }
 
-/* Contact Page */
-.tl-contact-form {
-  max-width: 100%;
-}
-
-@media (min-width: 768px) {
- .tl-contact-form {
-    max-width: 310px;
-  } 
-}
 
 .tl-d-flex {
   display: flex;
@@ -641,65 +631,6 @@ p, address {
   align-self: flex-end;
 }
 
-.form-group {
-  margin-bottom: 30px;
-}
-
-.form-control {
-  display: block;
-  width: 100%;
-  padding: 0.375rem 0.75rem;
-  font-size: 1.1rem;
-  font-weight: 400;
-  line-height: 1.5;
-  color: #626364;
-  background-color: #fff;
-  background-clip: padding-box;
-  border: 1px solid #ced4da;
-  border-right: 0;
-  border-top: 0;
-  border-left: 0;
-  border-radius: 0;
-  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-}
-
-.form-control::-ms-expand {
-  background-color: transparent;
-  border: 0;
-}
-
-.form-control:focus {
-  color: #495057;
-  background-color: #fff;
-  border-color: #80bdff;
-  outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
-}
-
-.form-control::-webkit-input-placeholder {
-  color: #6c757d;
-  opacity: 1;
-}
-
-.form-control::-moz-placeholder {
-  color: #6c757d;
-  opacity: 1;
-}
-
-.form-control:-ms-input-placeholder {
-  color: #6c757d;
-  opacity: 1;
-}
-
-.form-control::-ms-input-placeholder {
-  color: #6c757d;
-  opacity: 1;
-}
-
-.form-control::placeholder {
-  color: #6c757d;
-  opacity: 1;
-}
 
 .tm-info-title {
   font-size: 1.6rem;
