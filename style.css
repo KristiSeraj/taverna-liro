@@ -479,6 +479,7 @@ p, address {
 
 .tl-footer a:hover {
   color: #35439b;
+  text-decoration: underline;
 }
 
 /* About */
