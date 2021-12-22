@@ -28,15 +28,12 @@
 <body id="stop"> 
 	<div class="loader-container">
 		<div class="loader-content">
-			   <img src="img/logo.png" alt="" class="loader-image">
-		   <div class="loader-message">
-			  <span>Taverna LI-RO</span>
-		   </div>
+			<p class="loader-message">TAVERNA LI-RO</p>
 		</div>
 	 </div>
 
 	<!-- Navbar -->
-	<nav class="navbar navbar-expand-lg navbar-dark">
+	<nav class="navbar navbar-expand-lg navbar-dark fixed-top">
 		<div class="container-fluid">
 		  <a class="navbar-brand mb-3 mb-lg-0 ms-lg-5" href="#"><img src="img/logo.png" alt="" class="ms-lg-5 me-4"><span class="h4">Taverna LI-RO</span></a>
 		  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -45,28 +42,26 @@
 		  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ms-auto mb-3 mb-lg-0 me-lg-5">
 			  <li class="nav-item me-sm-4">
-				<a class="nav-link active h4" aria-current="page" href="#">Kreu</a>
+				<a class="nav-link active h4" aria-current="page" href="#">Home</a>
 			  </li>
 			  <li class="nav-item me-sm-4">
-				<a class="nav-link active h4" href="#about">Rreth Nesh</a>
+				<a class="nav-link active h4" href="#about">About</a>
 			  </li>
 			  <li class="nav-item me-sm-4">
 				<a class="nav-link active h4" href="menu.html">Menu</a>
 			  </li>
 			  <li class="nav-item me-sm-4">
-				<a class="nav-link active h4" href="#address">Vendndodhja</a>
+				<a class="nav-link active h4" href="#address">Location</a>
 			  </li>
 			</ul>
 		  </div>
 		</div>
 	  </nav>
 
-	  <div class="container-lg">
 		<video id="bkgVideo" autoplay muted loop>
-			<source src="Liro.mp4" type="video/mp4">
+			<source src="img/liro.mp4" type="video/mp4">
 		  Your browser does not support the video tag.
 		  </video>
-	  </div>
 
 	  <div class="container-fluid flex-wrap" id="about">
 		  <h1 class="text-center text-light py-3 font-header">Rreth Tavernes</h1>
@@ -90,48 +85,29 @@
 	  </div>
 	  
 	  	<div class="container-fluid bg-light pb-5" id="address">
-		  <h1 class="text-center py-3 font-header">Vendndodhja <i class="fas fa-map-marker-alt"></i></h1>
+		  <h1 class="text-center py-3 font-header">Location <i class="fas fa-map-marker-alt"></i></h1>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12127.229037160378!2d19.4878953!3d40.5458472!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xecd7d294d1a12999!2sTaverna%20Li-Ro%20Selevec!5e0!3m2!1sen!2s!4v1638569888103!5m2!1sen!2s" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 		</div>
 
-		<footer class="text-center text-lg-start">
-			<section class="d-flex-justify-content-center justify-content-lg-between p-4 border-bottom">
-				<div class="container">
-					<div class="row justify-content-md-center">
-						<div class="col col-lg-2">
-							<h4>Taverna Li-Ro</h4>
-							<p>Sado e thjeshtë, një pjatë e gatuar me dashuri shijon pa fund!
-								Gatuar me produkte të freskëta çdo ditë!</p>
-						</div>
-						<div class="col-lg-2">
-							<ul class="navbar-nav mb-3">
-								<li class="nav-item">
-								  <a class="nav-link text-reset text-decoration-none" aria-current="page" href="#">Kreu</a>
-								</li>
-								<li class="nav-item">
-								  <a class="nav-link text-reset text-decoration-none" href="#about">Rreth Nesh</a>
-								</li>
-								<li class="nav-item">
-								  <a class="nav-link text-reset text-decoration-none" href="menu.html">Menu</a>
-								</li>
-								<li class="nav-item">
-								  <a class="nav-link text-reset text-decoration-none" href="#address">Vendndodhja</a>
-								</li>
-							  </ul>
-						</div>
-						<div class="col-lg-3">
-							<h4>Kontakto</h4>
-							<p><i class="fas fa-map-marker-alt"></i> <a href="https://goo.gl/maps/DZwBJRnpMCaZRQ6o6" class="text-decoration-none text-reset">Selevec, Panaja / Vlorë, Albania</a></p>
-							<p><i class="far fa-envelope"></i> <a href="mailto:tavernaliro@gmail.com" class="text-decoration-none text-reset">tavernaliro@gmail.com</a></p>
-							<p><i class="fas fa-phone"></i> <a href="tel:+355693304188" class="text-decoration-none text-reset">+355693304188</a></p>
-							<p><i class="fab fa-instagram"></i> <a href="https://www.instagram.com/taverna_li_ro/" class="text-decoration-none text-reset">taverna_li_ro</a></p>
-							<p><i class="far fa-clock"></i> Open 12:30 - 23:30</p>
-						</div>
+		<footer>
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-12 text-center">
+						<h2 class="font-header pt-5">TAVERNA LI-RO</h2>
+						<p>Sado e thjeshtë, një pjatë e gatuar me dashuri shijon pa fund! Gatuar me produkte të freskëta çdo ditë!</p>
+						<ul class="social">
+							<li><a href="https://goo.gl/maps/DZwBJRnpMCaZRQ6o6" class="text-decoration-none text-reset" rel="noopener noreferrer" data-bs-toggle="tooltip" data-bs-placement="top" title="Taverna Li-Ro, Selevec"><i class="fas fa-map-marker-alt icon-wrapper"></i></a></li>
+							<li><a href="mailto:tavernaliro@gmail.com" class="text-decoration-none text-reset" rel="noopener noreferrer" data-bs-toggle="tooltip" data-bs-placement="top" title="tavernaliro@gmail.com"><i class="far fa-envelope icon-wrapper"></i></a></li>
+							<li><a href="tel:+355693304188" class="text-decoration-none text-reset" rel="noopener noreferrer" data-bs-toggle="tooltip" data-bs-placement="top" title="+355693304188"><i class="fas fa-phone icon-wrapper"></i></a></li>
+							<li><a href="https://www.instagram.com/taverna_li_ro/" class="text-decoration-none text-reset" rel="noopener noreferrer" data-bs-toggle="tooltip" data-bs-placement="top" title="taverna_li_ro"><i class="fab fa-instagram icon-wrapper"></i></a></li>
+							<li><a href="#" class="text-decoration-none text-reset" data-bs-toggle="tooltip" data-bs-placement="top" title="Open 12:30 - 23:30"><i class="far fa-clock icon-wrapper"></i></a></li>
+						</ul>
+					</div>
+					<hr>
+					<div class="col-md-12 text-center">
+						<p>Copyright &copy; 2022 Taverna Li-Ro. Made by: <a href="https://linktr.ee/mrcoku" class="text-decoration-none credits" rel="noopener noreferrer">Kristjan Seraj</a></p>
 					</div>
 				</div>
-			</section>
-			<div class="text-center p-3">
-				<p>&copy; 2021 Copyright: <a href="#" class="text-decoration-none text-reset">Taverna Li-Ro.</a> Made by: Kristjan Seraj</p>
 			</div>
 		</footer>
 	
@@ -144,6 +120,11 @@
 		navLinks.forEach((l) => {
 			l.addEventListener('click', () => { bsCollapse.toggle() })
 		})
+
+		var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+		  var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+  		  return new bootstrap.Tooltip(tooltipTriggerEl)
+		  })
 	</script>
 	
 </body>
