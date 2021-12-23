@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: Hobo BT;
+  src: url(Hobo\ BT.ttf);
+}
+
 .navbar {
   background-color: #4F3409;
   font-family: 'Hobo BT', sans-serif;
