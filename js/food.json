@@ -25,7 +25,7 @@
                 {
                     "foodName": "Sallat Mikse e Vogel",
                     "foodPrice": "200L",
-                    "foodImage": "img/food/salad.jpeg" 
+                    "foodImage": "img/food/salad1.jpeg" 
                 },
                 {
                     "foodName": "Sallat Mikse e Madhe",
@@ -92,7 +92,7 @@
                 {
                     "foodName": "Zog ne tave saci",
                     "foodPrice": "1500L",
-                    "foodImage": "img/food/chicken.jpeg" 
+                    "foodImage": "img/food/chick.jpeg" 
                 },
                 {
                     "foodName": "Paidhaqe gici",

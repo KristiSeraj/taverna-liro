@@ -1,5 +1,5 @@
 function preloaderFadeOutInit(){
-  $('.loader-container').fadeOut('slow');
+  $('.bouncing-loader').fadeOut('slow');
   $('body').attr('id','');
   }
   
