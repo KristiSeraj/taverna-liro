@@ -25,7 +25,7 @@
                 {
                     "foodName": "Sallat Mikse e Vogel",
                     "foodPrice": "200L",
-                    "foodImage": "img/food/salad1.jpeg" 
+                    "foodImage": "img/10.jpeg" 
                 },
                 {
                     "foodName": "Sallat Mikse e Madhe",
@@ -80,7 +80,7 @@
                 {
                     "foodName": "Turshi",
                     "foodPrice": "200L",
-                    "foodImage": "img/food/turshi.jpeg" 
+                    "foodImage": "img/10.jpeg" 
                 }
             ],
             "firstPlate": [
@@ -92,7 +92,7 @@
                 {
                     "foodName": "Zog ne tave saci",
                     "foodPrice": "1500L",
-                    "foodImage": "img/food/chick.jpeg" 
+                    "foodImage": "img/10.jpeg" 
                 },
                 {
                     "foodName": "Paidhaqe gici",
@@ -119,7 +119,7 @@
                 {
                     "foodName": "Coca-Cola",
                     "foodPrice": "150L",
-                    "foodImage": "img/food/kola.png" 
+                    "foodImage": "img/10.jpeg" 
                 },
                 {
                     "foodName": "Fanta",
