@@ -3,52 +3,52 @@
         {
             "antipasta": [
                 {
-                    "foodName": "Sallat Fshati",
+                    "foodName": "Sallatë Fshati",
                     "foodPrice": "300L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Sallat Taverne",
+                    "foodName": "Sallatë Taverne",
                     "foodPrice": "500L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Sallat Jeshile e Vogel",
+                    "foodName": "Sallatë Jeshile e Vogël",
                     "foodPrice": "200L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Sallat Jeshile e Madhe",
+                    "foodName": "Sallatë Jeshile e Madhe",
                     "foodPrice": "300L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Sallat Mikse e Vogel",
+                    "foodName": "Sallatë Mikse e Vogël",
                     "foodPrice": "200L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Sallat Mikse e Madhe",
+                    "foodName": "Sallatë Mikse e Madhe",
                     "foodPrice": "300L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Sallat Rukola",
+                    "foodName": "Sallatë Rukola",
                     "foodPrice": "500L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Lakra te egra",
+                    "foodName": "Lakra të egra",
                     "foodPrice": "300L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Sallat Ulliri",
+                    "foodName": "Sallatë Ulliri",
                     "foodPrice": "200L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Perime te ziera",
+                    "foodName": "Perime të ziera",
                     "foodPrice": "400L",
                     "foodImage": "img/10.jpeg" 
                 },
@@ -58,17 +58,17 @@
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Djathe i bardhe",
+                    "foodName": "Djathë i bardhë",
                     "foodPrice": "200L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "djathe i bardhe i pjekur",
+                    "foodName": "djathë i bardhë i pjekur",
                     "foodPrice": "300L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Djathe kackavall i pjekur",
+                    "foodName": "Djathë kackavall i pjekur",
                     "foodPrice": "200L",
                     "foodImage": "img/10.jpeg" 
                 },
@@ -90,7 +90,7 @@
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Zog ne tave saci",
+                    "foodName": "Zog në tavë saci",
                     "foodPrice": "1500L",
                     "foodImage": "img/10.jpeg" 
                 },
@@ -132,7 +132,7 @@
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Caj i Ftohte",
+                    "foodName": "Caj i Ftohtë",
                     "foodPrice": "150L",
                     "foodImage": "img/10.jpeg" 
                 },
@@ -221,52 +221,52 @@
             ],
             "wine": [
                 {
-                    "foodName": "Gote vere",
+                    "foodName": "Gotë verë",
                     "foodPrice": "100L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Vere e hapur 250ml",
+                    "foodName": "Verë e hapur 250ml",
                     "foodPrice": "150L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Vere e hapur 0.5L",
+                    "foodName": "Verë e hapur 0.5L",
                     "foodPrice": "300L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Vere e hapur 1L",
+                    "foodName": "Verë e hapur 1L",
                     "foodPrice": "600L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Vere shishe",
+                    "foodName": "Verë shishe",
                     "foodPrice": "1200L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Vere shishe",
+                    "foodName": "Verë shishe",
                     "foodPrice": "1500L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Vere shishe",
+                    "foodName": "Verë shishe",
                     "foodPrice": "2000L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Vere shishe",
+                    "foodName": "Verë shishe",
                     "foodPrice": "2500L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Vere shishe",
+                    "foodName": "Verë shishe",
                     "foodPrice": "3000L",
                     "foodImage": "img/10.jpeg" 
                 },
                 {
-                    "foodName": "Vere shishe",
+                    "foodName": "Verë shishe",
                     "foodPrice": "4000L",
                     "foodImage": "img/10.jpeg" 
                 },
