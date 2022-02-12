@@ -3,277 +3,224 @@
         {
             "antipasta": [
                 {
-                    "foodName": "Sallatë Fshati",
-                    "foodPrice": "300L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Sallatë Fshati / Greek Salad",
+                    "foodPrice": "300L"
                 },
                 {
-                    "foodName": "Sallatë Taverne",
-                    "foodPrice": "500L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Sallatë Taverne / Tavern Salad",
+                    "foodPrice": "500L"
                 },
                 {
-                    "foodName": "Sallatë Jeshile e Vogël",
-                    "foodPrice": "200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Sallatë Jeshile e Vogël / Small lettuce salad",
+                    "foodPrice": "200L"
                 },
                 {
-                    "foodName": "Sallatë Jeshile e Madhe",
-                    "foodPrice": "300L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Sallatë Jeshile e Madhe / Big lettuce salad",
+                    "foodPrice": "300L"
                 },
                 {
-                    "foodName": "Sallatë Mikse e Vogël",
-                    "foodPrice": "200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Sallatë Mikse e Vogël / Small mixed salad",
+                    "foodPrice": "200L"
                 },
                 {
-                    "foodName": "Sallatë Mikse e Madhe",
-                    "foodPrice": "300L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Sallatë Mikse e Madhe / Big mixed salad",
+                    "foodPrice": "300L" 
                 },
                 {
-                    "foodName": "Sallatë Rukola",
-                    "foodPrice": "500L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Sallatë Rukola / Arugula salad",
+                    "foodPrice": "500L"
                 },
                 {
-                    "foodName": "Lakra të egra",
-                    "foodPrice": "300L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Lakra të egra / Wild cabbage",
+                    "foodPrice": "300L"
                 },
                 {
-                    "foodName": "Sallatë Ulliri",
-                    "foodPrice": "200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Sallatë Ulliri / Olive Salad",
+                    "foodPrice": "200L"
                 },
                 {
-                    "foodName": "Perime të ziera",
-                    "foodPrice": "400L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Perime të ziera / Boiled vegetables",
+                    "foodPrice": "400L"
                 },
                 {
-                    "foodName": "Perime zgare",
-                    "foodPrice": "400L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Perime zgare / Grilled vegetables",
+                    "foodPrice": "400L"
                 },
                 {
-                    "foodName": "Djathë i bardhë",
-                    "foodPrice": "200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Djathë i bardhë / Feta cheese",
+                    "foodPrice": "200L"
                 },
                 {
-                    "foodName": "djathë i bardhë i pjekur",
-                    "foodPrice": "300L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Djathë i bardhë i pjekur / Grilled feta cheese",
+                    "foodPrice": "300L" 
                 },
                 {
-                    "foodName": "Djathë kackavall i pjekur",
-                    "foodPrice": "200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Djathë kackavall i pjekur / Grilled yellow cheese",
+                    "foodPrice": "200L" 
                 },
                 {
-                    "foodName": "Patate",
-                    "foodPrice": "200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Patate / French fries",
+                    "foodPrice": "200L"
                 },
                 {
-                    "foodName": "Turshi",
-                    "foodPrice": "200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Turshi / Pickled vegetables",
+                    "foodPrice": "200L"
                 }
             ],
             "firstPlate": [
                 {
-                    "foodName": "Zog Fshati",
-                    "foodPrice": "1200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Zog Fshati / Village chicken",
+                    "foodPrice": "1200L"
                 },
                 {
-                    "foodName": "Zog në tavë saci",
-                    "foodPrice": "1500L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Zog në tavë saci / Chicken with rice or pasta (cooked in a traditional way)",
+                    "foodPrice": "1500L"
                 },
                 {
-                    "foodName": "Paidhaqe gici",
-                    "foodPrice": "600L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Paidhaqe gici / Piglet ribs",
+                    "foodPrice": "600L"
                 },
                 {
-                    "foodName": "Paidhaqe Qengji",
-                    "foodPrice": "900L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Paidhaqe Qengji / Lamb ribs",
+                    "foodPrice": "900L"
                 },
                 {
-                    "foodName": "Peshk",
-                    "foodPrice": "800L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Peshk / Grilled orata fish",
+                    "foodPrice": "800L"
                 },
                 {
-                    "foodName": "Ngjala",
-                    "foodPrice": "700L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Ngjala / Grilled eels",
+                    "foodPrice": "700L"
                 }
             ], 
             "drinks": [
                 {
                     "foodName": "Coca-Cola",
-                    "foodPrice": "150L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "150L"
                 },
                 {
                     "foodName": "Fanta",
-                    "foodPrice": "150L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "150L" 
                 },
                 {
                     "foodName": "Sprite",
-                    "foodPrice": "150L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "150L" 
                 },
                 {
-                    "foodName": "Caj i Ftohtë",
-                    "foodPrice": "150L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Caj i Ftohtë / Cold tea",
+                    "foodPrice": "150L" 
                 },
                 {
                     "foodName": "Lemon Soda",
-                    "foodPrice": "150L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "150L" 
                 },
                 {
                     "foodName": "Oran Soda",
-                    "foodPrice": "150L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "150L"
                 },
                 {
                     "foodName": "Bravo",
-                    "foodPrice": "200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "200L"
                 },
                 {
                     "foodName": "Ivi",
-                    "foodPrice": "150L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "150L"
                 },
                 {
                     "foodName": "Scheweeps",
-                    "foodPrice": "150L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "150L"
                 },
                 {
                     "foodName": "B-52",
-                    "foodPrice": "200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "200L"
                 },
                 {
                     "foodName": "Red Bull",
-                    "foodPrice": "350L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "350L"
                 }
             ],
             "beers": [
                 {
                     "foodName": "Elbar",
-                    "foodPrice": "150L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "150L" 
                 },
                 {
                     "foodName": "Peroni",
-                    "foodPrice": "200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "200L"
                 },
                 {
                     "foodName": "Amstel",
-                    "foodPrice": "200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "200L"
                 },
                 {
                     "foodName": "Heineken",
-                    "foodPrice": "200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "200L" 
                 },
                 {
                     "foodName": "Efes 0.5L",
-                    "foodPrice": "200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "200L"
                 },
                 {
                     "foodName": "Paulaner 0.5L",
-                    "foodPrice": "200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "200L"
                 },
                 {
                     "foodName": "Korca",
-                    "foodPrice": "150L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "150L" 
                 },
                 {
                     "foodName": "Stela 0.5L",
-                    "foodPrice": "150L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "150L"
                 },
                 {
                     "foodName": "Bavaria 0% Alkool",
-                    "foodPrice": "200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodPrice": "200L"
                 }
             ],
             "wine": [
                 {
-                    "foodName": "Gotë verë",
-                    "foodPrice": "100L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Gotë verë / Glass of wine",
+                    "foodPrice": "100L"
                 },
                 {
-                    "foodName": "Verë e hapur 250ml",
-                    "foodPrice": "150L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Verë e hapur 250ml / Wine 250ml",
+                    "foodPrice": "150L" 
                 },
                 {
-                    "foodName": "Verë e hapur 0.5L",
-                    "foodPrice": "300L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Verë e hapur 0.5L / Wine 0.5l",
+                    "foodPrice": "300L"
                 },
                 {
-                    "foodName": "Verë e hapur 1L",
-                    "foodPrice": "600L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Verë e hapur 1L / Wine 1l",
+                    "foodPrice": "600L"
                 },
                 {
-                    "foodName": "Verë shishe",
-                    "foodPrice": "1200L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Verë shishe / Wine bottle",
+                    "foodPrice": "1200L" 
                 },
                 {
-                    "foodName": "Verë shishe",
-                    "foodPrice": "1500L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Verë shishe / Wine bottle",
+                    "foodPrice": "1500L"
                 },
                 {
-                    "foodName": "Verë shishe",
-                    "foodPrice": "2000L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Verë shishe / Wine bottle",
+                    "foodPrice": "2000L"
                 },
                 {
-                    "foodName": "Verë shishe",
-                    "foodPrice": "2500L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Verë shishe / Wine bottle",
+                    "foodPrice": "2500L"
                 },
                 {
-                    "foodName": "Verë shishe",
-                    "foodPrice": "3000L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Verë shishe / Wine bottle",
+                    "foodPrice": "3000L"
                 },
                 {
-                    "foodName": "Verë shishe",
-                    "foodPrice": "4000L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Verë shishe / Wine bottle",
+                    "foodPrice": "4000L" 
                 },
                 {
-                    "foodName": "Raki rrushi",
-                    "foodPrice": "50L",
-                    "foodImage": "img/10.jpeg" 
+                    "foodName": "Raki rrushi / Grape raki",
+                    "foodPrice": "50L"
                 }
             ]
         }

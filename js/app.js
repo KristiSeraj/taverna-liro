@@ -2,184 +2,70 @@ fetch('js/food.json')
     .then(response => response.json())
     .then(data => {
         for(let i=0; i < data.food[0].antipasta.length; i++) {
-            let div1 = document.createElement('div');
-            div1.id = [i];
-            div1.className = 'col-md-6 col-lg-4';
+            let li1 = document.createElement('li');
+            let span1 = document.createElement('span');
+            li1.className = 'list-group-item';
+            li1.id = [i]
+            li1.innerText = (data.food[0].antipasta[i].foodName);
+            span1.className = 'span-li';
+            span1.id = [i]
+            span1.innerText = (data.food[0].antipasta[i].foodPrice);
 
-            let div2 = document.createElement('div');
-            div2.className = 'card mb-3';
-
-            let img1 = document.createElement('img');
-            img1.className = 'card-img-top';
-            img1.src = (data.food[0].antipasta[i].foodImage);
-            img1.alt = (data.food[0].antipasta[i].foodName);
-
-
-            let div3 = document.createElement('div');
-            div3.className = 'card-body'
-
-            let h5 = document.createElement('h5');
-            h5.id = [i];
-            h5.className = 'card-title';
-            h5.innerText = (data.food[0].antipasta[i].foodName);
-
-            let hr = document.createElement('hr');
-
-            let p = document.createElement('p');
-            p.className = 'card-text text-end';
-            p.innerText = (data.food[0].antipasta[i].foodPrice);
-
-            document.getElementById("antiPasta").appendChild(div1);
-            div1.appendChild(div2);
-            div2.appendChild(img1);
-            div2.appendChild(div3);
-            div3.appendChild(h5);
-            div3.appendChild(hr);
-            div3.appendChild(p);
+            document.getElementById("food1").appendChild(li1);
+            li1.appendChild(span1);
         }
         for(let x=0; x < data.food[0].firstPlate.length; x++) {
-            let div4 = document.createElement('div');
-            div4.id = [x];
-            div4.className = 'col-md-6 col-lg-4';
+            let li2 = document.createElement('li');
+            let span2 = document.createElement('span');
+            li2.className = 'list-group-item';
+            li2.id = [x];
+            li2.innerText = (data.food[0].firstPlate[x].foodName);
+            span2.className = 'span-li';
+            span2.id = [x];
+            span2.innerText = (data.food[0].firstPlate[x].foodPrice);
 
-            let div5 = document.createElement('div');
-            div5.className = 'card mb-3';
-
-            let img2 = document.createElement('img');
-            img2.className = 'card-img-top';
-            img2.src = (data.food[0].firstPlate[x].foodImage);
-            img2.alt = (data.food[0].firstPlate[x].foodName);
-
-
-            let div6 = document.createElement('div');
-            div6.className = 'card-body';
-
-            let title = document.createElement('h5');
-            title.id = [x];
-            title.className = 'card-title';
-            title.innerText = (data.food[0].firstPlate[x].foodName);
-
-            let elHr = document.createElement('hr');
-
-            let pg = document.createElement('p');
-            pg.className = 'card-text text-end';
-            pg.innerText = (data.food[0].firstPlate[x].foodPrice);
-
-            document.getElementById("firstPlate").appendChild(div4);
-            div4.appendChild(div5);
-            div5.appendChild(img2);
-            div5.appendChild(div6);
-            div6.appendChild(title);
-            div6.appendChild(elHr);
-            div6.appendChild(pg);
+            document.getElementById("food2").appendChild(li2);
+            li2.appendChild(span2);
         }
-        for(let x=0; x < data.food[0].drinks.length; x++) {
-            let firstDiv = document.createElement('div');
-            firstDiv.id = [x];
-            firstDiv.className = 'col-md-6 col-lg-4';
+        for(let y=0; y < data.food[0].drinks.length; y++) {
+            let li3 = document.createElement('li');
+            let span3 = document.createElement('span');
+            li3.className = 'list-group-item';
+            li3.id = [y];
+            li3.innerText = (data.food[0].drinks[y].foodName);
+            span3.className = 'span-li';
+            span3.id = [y];
+            span3.innerText = (data.food[0].drinks[y].foodPrice);
 
-            let secondDiv = document.createElement('div');
-            secondDiv.className = 'card mb-3';
-
-            let imgF = document.createElement('img');
-            imgF.className = 'card-img-top';
-            imgF.src = (data.food[0].drinks[x].foodImage);
-            imgF.alt = (data.food[0].drinks[x].foodName);
-
-
-            let thirdDiv = document.createElement('div');
-            thirdDiv.className = 'card-body';
-
-            let title = document.createElement('h5');
-            title.id = [x];
-            title.className = 'card-title';
-            title.innerText = (data.food[0].drinks[x].foodName);
-
-            let elHr = document.createElement('hr');
-
-            let pg = document.createElement('p');
-            pg.className = 'card-text text-end';
-            pg.innerText = (data.food[0].drinks[x].foodPrice);
-
-            document.getElementById("drinks").appendChild(firstDiv);
-            firstDiv.appendChild(secondDiv);
-            secondDiv.appendChild(imgF);
-            secondDiv.appendChild(thirdDiv);
-            thirdDiv.appendChild(title);
-            thirdDiv.appendChild(elHr);
-            thirdDiv.appendChild(pg);
+            document.getElementById('food3').appendChild(li3);
+            li3.appendChild(span3);
         }
-        for(let i=0; i < data.food[0].beers.length; i++) {
-            let firstDiv = document.createElement('div');
-            firstDiv.id = [i];
-            firstDiv.className = 'col-md-6 col-lg-4';
+        for(let j=0; j < data.food[0].beers.length; j++) {
+            let li4 = document.createElement('li');
+            let span4 = document.createElement('span');
+            li4.className = 'list-group-item';
+            li4.id = [j];
+            li4.innerText = (data.food[0].beers[j].foodName);
+            span4.className = 'span-li';
+            span4.id = [j];
+            span4.innerText = (data.food[0].beers[j].foodPrice);
 
-            let secondDiv = document.createElement('div');
-            secondDiv.className = 'card mb-3';
-
-            let imgF = document.createElement('img');
-            imgF.className = 'card-img-top';
-            imgF.src = (data.food[0].beers[i].foodImage);
-            imgF.alt = (data.food[0].beers[i].foodName);
-
-
-            let thirdDiv = document.createElement('div');
-            thirdDiv.className = 'card-body';
-
-            let title = document.createElement('h5');
-            title.id = [i];
-            title.className = 'card-title';
-            title.innerText = (data.food[0].beers[i].foodName);
-
-            let elHr = document.createElement('hr');
-
-            let pg = document.createElement('p');
-            pg.className = 'card-text text-end';
-            pg.innerText = (data.food[0].beers[i].foodPrice);
-
-            document.getElementById("beers").appendChild(firstDiv);
-            firstDiv.appendChild(secondDiv);
-            secondDiv.appendChild(imgF);
-            secondDiv.appendChild(thirdDiv);
-            thirdDiv.appendChild(title);
-            thirdDiv.appendChild(elHr);
-            thirdDiv.appendChild(pg);
+            document.getElementById('food4').appendChild(li4);
+            li4.appendChild(span4);
         }
-        for(let x=0; x < data.food[0].wine.length; x++) {
-            let firstDiv = document.createElement('div');
-            firstDiv.id = [x];
-            firstDiv.className = 'col-md-6 col-lg-4';
+        for(let k = 0; k < data.food[0].wine.length; k++) {
+            let li5 = document.createElement('li');
+            let span5 = document.createElement('span');
+            li5.className = 'list-group-item';
+            li5.id = [k];
+            li5.innerText = (data.food[0].wine[k].foodName);
+            span5.className = 'span-li';
+            span5.id = [k];
+            span5.innerText = (data.food[0].wine[k].foodPrice);
 
-            let secondDiv = document.createElement('div');
-            secondDiv.className = 'card mb-3';
-
-            let imgF = document.createElement('img');
-            imgF.className = 'card-img-top';
-            imgF.src = (data.food[0].wine[x].foodImage);
-            imgF.alt = (data.food[0].wine[x].foodName);
-
-
-            let thirdDiv = document.createElement('div');
-            thirdDiv.className = 'card-body';
-
-            let title = document.createElement('h5');
-            title.id = [x];
-            title.className = 'card-title';
-            title.innerText = (data.food[0].wine[x].foodName);
-
-            let elHr = document.createElement('hr');
-
-            let pg = document.createElement('p');
-            pg.className = 'card-text text-end';
-            pg.innerText = (data.food[0].wine[x].foodPrice);
-
-            document.getElementById("wine").appendChild(firstDiv);
-            firstDiv.appendChild(secondDiv);
-            secondDiv.appendChild(imgF);
-            secondDiv.appendChild(thirdDiv);
-            thirdDiv.appendChild(title);
-            thirdDiv.appendChild(elHr);
-            thirdDiv.appendChild(pg);
+            document.getElementById('food5').appendChild(li5);
+            li5.appendChild(span5);
+            
         }
         
     })
