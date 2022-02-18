@@ -4,10 +4,10 @@ fetch('js/food.json')
         for(let i=0; i < data.food[0].antipasta.length; i++) {
             let li1 = document.createElement('li');
             let span1 = document.createElement('span');
-            li1.className = 'list-group-item';
+            li1.className = 'list-group-item d-flex justify-content-between align-items-center';
             li1.id = [i]
             li1.innerText = (data.food[0].antipasta[i].foodName);
-            span1.className = 'span-li';
+            span1.className = 'badge span-li';
             span1.id = [i]
             span1.innerText = (data.food[0].antipasta[i].foodPrice);
 
@@ -17,10 +17,10 @@ fetch('js/food.json')
         for(let x=0; x < data.food[0].firstPlate.length; x++) {
             let li2 = document.createElement('li');
             let span2 = document.createElement('span');
-            li2.className = 'list-group-item';
+            li2.className = 'list-group-item d-flex justify-content-between align-items-center';
             li2.id = [x];
             li2.innerText = (data.food[0].firstPlate[x].foodName);
-            span2.className = 'span-li';
+            span2.className = 'badge span-li';
             span2.id = [x];
             span2.innerText = (data.food[0].firstPlate[x].foodPrice);
 
@@ -30,10 +30,10 @@ fetch('js/food.json')
         for(let y=0; y < data.food[0].drinks.length; y++) {
             let li3 = document.createElement('li');
             let span3 = document.createElement('span');
-            li3.className = 'list-group-item';
+            li3.className = 'list-group-item d-flex justify-content-between align-items-center';
             li3.id = [y];
             li3.innerText = (data.food[0].drinks[y].foodName);
-            span3.className = 'span-li';
+            span3.className = 'badge span-li';
             span3.id = [y];
             span3.innerText = (data.food[0].drinks[y].foodPrice);
 
@@ -43,10 +43,10 @@ fetch('js/food.json')
         for(let j=0; j < data.food[0].beers.length; j++) {
             let li4 = document.createElement('li');
             let span4 = document.createElement('span');
-            li4.className = 'list-group-item';
+            li4.className = 'list-group-item d-flex justify-content-between align-items-center';
             li4.id = [j];
             li4.innerText = (data.food[0].beers[j].foodName);
-            span4.className = 'span-li';
+            span4.className = 'badge span-li';
             span4.id = [j];
             span4.innerText = (data.food[0].beers[j].foodPrice);
 
@@ -56,10 +56,10 @@ fetch('js/food.json')
         for(let k = 0; k < data.food[0].wine.length; k++) {
             let li5 = document.createElement('li');
             let span5 = document.createElement('span');
-            li5.className = 'list-group-item';
+            li5.className = 'list-group-item d-flex justify-content-between align-items-center';
             li5.id = [k];
             li5.innerText = (data.food[0].wine[k].foodName);
-            span5.className = 'span-li';
+            span5.className = 'badge span-li';
             span5.id = [k];
             span5.innerText = (data.food[0].wine[k].foodPrice);
 
