@@ -43,13 +43,9 @@ body {
   font-size: 1.5rem;
 }
 
-.navbar-nav li a {
-  color: white !important;
-}
-
-.language-image {
-  width: 30px;
-}
+/* .navbar-nav li a {
+  color: white;
+} */
 
 #bkgVideo {
   width: 100%;
