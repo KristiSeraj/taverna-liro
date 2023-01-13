@@ -48,7 +48,7 @@
                 },
                 {
                     "foodName": "Djathë i bardhë / Feta cheese",
-                    "foodPrice": "200L"
+                    "foodPrice": "300L"
                 },
                 {
                     "foodName": "Djathë i bardhë i pjekur / Grilled feta cheese",
@@ -56,7 +56,7 @@
                 },
                 {
                     "foodName": "Djathë kackavall i pjekur / Grilled yellow cheese",
-                    "foodPrice": "200L" 
+                    "foodPrice": "300L" 
                 },
                 {
                     "foodName": "Patate / French fries",
@@ -78,7 +78,7 @@
                 },
                 {
                     "foodName": "Paidhaqe gici / Piglet ribs",
-                    "foodPrice": "600L"
+                    "foodPrice": "700L"
                 },
                 {
                     "foodName": "Paidhaqe Qengji / Lamb ribs",
@@ -86,11 +86,11 @@
                 },
                 {
                     "foodName": "Peshk / Grilled orata fish",
-                    "foodPrice": "800L"
+                    "foodPrice": "1000L"
                 },
                 {
                     "foodName": "Ngjala / Grilled eels",
-                    "foodPrice": "700L"
+                    "foodPrice": "1000L"
                 }
             ], 
             "drinks": [
