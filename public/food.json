@@ -1,0 +1,303 @@
+{
+    "categories": [
+        {
+            "name": "Antipasta",
+            "translation": "Starters",
+            "items": [
+                {
+                    "name": "Sallate Fshati",
+                    "translation": "Greek Salad",
+                    "price": "350L"
+                },
+                {
+                    "name": "Sallate Ulliri",
+                    "translation": "Olive Salad",
+                    "price": "250L"
+                },
+                {
+                    "name": "Sallate Jeshile e Vogel",
+                    "translation": "Small lettuce salad",
+                    "price": "300L"
+                },
+                {
+                    "name": "Sallate Jeshile e Madhe",
+                    "translation": "Big lettuce salad",
+                    "price": "400L"
+                },
+                {
+                    "name": "Sallate Mikse e Vogel",
+                    "translation": "Small mixed salad",
+                    "price": "300L"
+                },
+                {
+                    "name": "Sallate Mikse e Madhe",
+                    "translation": "Big mixed salad",
+                    "price": "400L"
+                },
+                {
+                    "name": "Sallate Rukola",
+                    "translation": "Arugula salad",
+                    "price": "500L"
+                },
+                {
+                    "name": "Sallate Taverne e Vogel",
+                    "translation": "Small Tavern Salad",
+                    "price": "300L"
+                },
+                {
+                    "name": "Sallate Taverne e Madhe",
+                    "translation": "Big Tavern Salad",
+                    "price": "500L"
+                },
+                {
+                    "name": "Salce Kosi",
+                    "translation": "Sour Cream",
+                    "price": "250L"
+                },
+                {
+                    "name": "Patate",
+                    "translation": "Fries",
+                    "price": "250L"
+                },
+                {
+                    "name": "Turshi",
+                    "translation": "Pickled vegetables",
+                    "price": "300L"
+                },
+                {
+                    "name": "Lakra te egra",
+                    "translation": "Wild cabbage",
+                    "price": "300L"
+                },
+                {
+                    "name": "Djathe i bardhe",
+                    "translation": "White cheese",
+                    "price": "300L"
+                },
+                {
+                    "name": "Djathe kackavall",
+                    "translation": "Yellow cheese",
+                    "price": "300L"
+                },
+                {
+                    "name": "Kerpudha",
+                    "translation": "Sauteed Mushrooms",
+                    "price": "400L"
+                },
+                {
+                    "name": "Byrek saci",
+                    "translation": "Spinach pie",
+                    "price": "150L"
+                }
+            ]
+        },
+        {
+            "name": "Pjata kryesore",
+            "translation": "First Plate",
+            "items": [
+                {
+                    "name": "Zog Fshati",
+                    "translation": "Village chicken",
+                    "price": "1200L"
+                },
+                {
+                    "name": "Zog ne tave saci",
+                    "translation": "Chicken with rice or pasta (cooked in a traditional way)",
+                    "price": "1700L"
+                },
+                {
+                    "name": "Brinje vici ne furre",
+                    "translation": "Beef ribs",
+                    "price": "2500L"
+                },
+                {
+                    "name": "Fileto vici",
+                    "translation": "Filet mignon",
+                    "price": "1500L"
+                },
+                {
+                    "name": "Fiorentina (1kg)",
+                    "price": "3000L"
+                },
+                {
+                    "name": "Paidhaqe gici",
+                    "translation": "Piglet ribs",
+                    "price": "900L"
+                },
+                {
+                    "name": "Paidhaqe Qengji",
+                    "translation": "Lamb ribs",
+                    "price": "1200L"
+                },
+                {
+                    "name": "Peshk",
+                    "translation": "Grilled orata fish",
+                    "price": "1000L"
+                },
+                {
+                    "name": "Ngjala",
+                    "translation": "Grilled eels",
+                    "price": "1200L"
+                }
+            ]
+        },
+        {
+            "name": "Embelsira",
+            "translation": "Desserts",
+            "items": [
+                {
+                    "name": "Tiramisu",
+                    "price": "350L"
+                },
+                {
+                    "name": "Cheesecake",
+                    "price": "350L"
+                },
+                {
+                    "name": "Bakllava",
+                    "price": "200L"
+                },
+                {
+                    "name": "Kadaif",
+                    "price": "200L"
+                }
+            ]
+        },
+        {
+            "name": "Birra",
+            "translation": "Beers",
+            "items": [
+                {
+                    "name": "Elbar",
+                    "price": "150L"
+                },
+                {
+                    "name": "Peroni",
+                    "price": "200L"
+                },
+                {
+                    "name": "Heineken",
+                    "price": "250L"
+                },
+                {
+                    "name": "Paulaner",
+                    "price": "300L"
+                },
+                {
+                    "name": "Korca",
+                    "price": "200L"
+                },
+                {
+                    "name": "Bavaria 0% Alkool",
+                    "price": "200L"
+                }
+            ]
+        },
+        {
+            "name": "Vere",
+            "translation": "Wine",
+            "items": [
+                {
+                    "name": "Vere shtepie 1 gote",
+                    "translation": "One glass of local wine",
+                    "price": "150L"
+                },
+                {
+                    "name": "Vere shtepie",
+                    "translation": "Local wine 500ml",
+                    "price": "400L"
+                },
+                {
+                    "name": "Vere shtepie",
+                    "translation": "Local wine 250ml",
+                    "price": "250L"
+                },
+                {
+                    "name": "Cabernet Sauvignon",
+                    "price": "1700L"
+                },
+                {
+                    "name": "Montepuliciano",
+                    "price": "2000L"
+                },
+                {
+                    "name": "Chianti 750ml",
+                    "price": "2500L"
+                },
+                {
+                    "name": "Chianti 300ml",
+                    "price": "1500L"
+                },
+                {
+                    "name": "Liro",
+                    "price": "1500L"
+                },
+                {
+                    "name": "Primitivo",
+                    "price": "4500L"
+                },
+                {
+                    "name": "Amarone",
+                    "price": "5500L"
+                },
+                {
+                    "name": "Pinot Grigo",
+                    "price": "2000L"
+                },
+                {
+                    "name": "Persli",
+                    "price": "1700L"
+                }
+            ]
+        },
+        {
+            "name": "Pije freskuese",
+            "translation": "Drinks",
+            "items": [
+                {
+                    "name": "Uje",
+                    "translation": "Water 750 ml",
+                    "price": "200L"
+                },
+                {
+                    "name": "Uje",
+                    "translation": "Water 500 ml",
+                    "price": "100L"
+                },
+                {
+                    "name": "Caj i Ftohte",
+                    "translation": "Cold tea",
+                    "price": "150L"
+                },
+                {
+                    "name": "Coca-Cola",
+                    "price": "150L"
+                },
+                {
+                    "name": "Fanta",
+                    "price": "150L"
+                },
+                {
+                    "name": "Sprite",
+                    "price": "150L"
+                },
+                {
+                    "name": "Lemon Soda",
+                    "price": "150L"
+                },
+                {
+                    "name": "Bravo",
+                    "price": "150L"
+                },
+                {
+                    "name": "Ivi",
+                    "price": "150L"
+                },
+                {
+                    "name": "Scheweeps",
+                    "price": "150L"
+                }
+            ]
+        }
+    ]
+}
