@@ -1,6 +1,6 @@
 import React from 'react';
 
-const MenuItem = ({ name, price, translation }) => {
+const MenuItem = ({ name, price, translation }: { name: any, price: any, translation: any }) => {
     return (
         <div className="flex flex-col text-lg">
             <div className="flex items-center w-full px-6">
