@@ -93,7 +93,7 @@
         },
         {
             "name": "Pjata kryesore",
-            "translation": "First Plate",
+            "translation": "Main dish",
             "items": [
                 {
                     "name": "Zog Fshati",
@@ -287,7 +287,7 @@
                 },
                 {
                     "name": "Bravo",
-                    "price": "150L"
+                    "price": "200L"
                 },
                 {
                     "name": "Ivi",
