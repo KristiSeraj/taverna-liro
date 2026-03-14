@@ -22,7 +22,7 @@
                 {
                     "name": "Sallate Jeshile e Madhe",
                     "translation": "Big lettuce salad",
-                    "price": "400L"
+                    "price": "500L"
                 },
                 {
                     "name": "Sallate Mikse e Vogel",
@@ -32,7 +32,7 @@
                 {
                     "name": "Sallate Mikse e Madhe",
                     "translation": "Big mixed salad",
-                    "price": "400L"
+                    "price": "500L"
                 },
                 {
                     "name": "Sallate Rukola",
@@ -87,7 +87,7 @@
                 {
                     "name": "Byrek saci",
                     "translation": "Spinach pie",
-                    "price": "150L"
+                    "price": "100L"
                 }
             ]
         },
@@ -117,7 +117,7 @@
                 },
                 {
                     "name": "Fiorentina (1kg)",
-                    "price": "3000L"
+                    "price": "4000L"
                 },
                 {
                     "name": "Paidhaqe gici",
@@ -213,12 +213,8 @@
                     "price": "250L"
                 },
                 {
-                    "name": "Cabernet Sauvignon",
-                    "price": "1700L"
-                },
-                {
                     "name": "Montepuliciano",
-                    "price": "2000L"
+                    "price": "1700L"
                 },
                 {
                     "name": "Chianti 750ml",
