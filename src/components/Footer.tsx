@@ -18,7 +18,6 @@ const Footer = () => {
                     <h3 className="text-xl font-semibold mb-4">Quick Links</h3>
                     <ul className="space-y-2 text-sm">
                         <li><a href="/menu" className="hover:underline">Menu</a></li>
-                        <li><a href="#" className="hover:underline">Reservations</a></li>
                         <li><a href="#" className="hover:underline">Contact Us</a></li>
                         <li><a href="#" className="hover:underline">About Us</a></li>
                     </ul>
@@ -28,12 +27,13 @@ const Footer = () => {
                 <div>
                     <h3 className="text-xl font-semibold mb-4">Contact & Hours</h3>
                     <ul className="text-sm space-y-2">
-                        <li className="flex items-center gap-2"><FaMapMarkerAlt /><a href="https://maps.app.goo.gl/tQ97BR3cyPMmeMGQA" rel="noopener noreferrer" target="_blank"> Taverna Li-Ro, Selevec</a></li>
+                        <li className="flex items-center gap-2"><FaMapMarkerAlt /><a href="https://maps.app.goo.gl/hi28GTzAbao9MMif7" rel="noopener noreferrer" target="_blank"> Taverna Li-Ro</a></li>
                         <li className="flex items-center gap-2"><FaPhone /> <a href="tel:+355693304188" rel="noopener noreferrer" target="_blank">+355 69 33 04 188</a></li>
                         <li className="flex items-center gap-2"><FaEnvelope /> <a href="mailto:tavernaliro@gmail.com" rel="noopener noreferrer" target="_blank">tavernaliro@gmail.com</a></li>
                         <li className="mt-4">
                             <span className="font-semibold">Opening Hours:</span> <br />
-                            Mon-Sun: 11:00 - 22:00
+                            Mon, Wed-Sun: 11:00 - 22:00 <br />
+                            Tuesday: Day Off
                         </li>
                     </ul>
                 </div>
