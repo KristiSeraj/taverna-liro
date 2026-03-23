@@ -83,7 +83,7 @@ export default function Home() {
               <div className="mt-5 space-y-4">
                 <div>
                   <p className="text-sm text-[#f9ecdc]/70">Location</p>
-                  <p className="text-lg font-medium">Selevec, Vlore</p>
+                  <p className="text-lg font-medium">Panaja, Vlore</p>
                 </div>
                 <div>
                   <p className="text-sm text-[#f9ecdc]/70">Hours</p>
